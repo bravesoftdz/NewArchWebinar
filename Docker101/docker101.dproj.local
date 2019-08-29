@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/08/27 18:52:11.000.792,=dbrtl.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.807,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.807,=FireDACMySQLDriver.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.792,=emsserverresource.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.792,=emsserverapi.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.807,=FireDACCommon.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:11.000.807,=FireDAC.dcp</Transaction>
+    <Transaction>2019/08/27 18:52:12.000.034,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/27 18:53:21.000.446,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Docker101\uMainResource.dfm</Transaction>
+    <Transaction>2019/08/27 18:53:21.000.446,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Docker101\uMainResource.pas</Transaction>
+    <Transaction>2019/08/27 18:53:25.000.972,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Docker101\docker101.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
